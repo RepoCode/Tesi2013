@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Videocitofono</string>
+    <string name="quit_option">Exit</string>
+    <string name="clean_option">Clear logs</string>
+    <string name="connected">CONNECTION OK</string>
+    <string name="disconnected">DISCONNECTION OK</string>
+    <string name="IP">IP</string>
+    <string name="PORT">PORT</string>
+    <string name="MODE">MODE</string>
+    <string name="button_send">Send Video</string>
+    <string name="menu_exit">Esci</string>
+    <string name="menu_video">Video Sorveglianza</string>
+    <string name="menu_close">Chiudi</string>
+    <string name="menu_info">Informazioni</string>
+    <string name="messaggio_connesso"> Connesso al Gateway</string>
+    <string name="messaggio_disconnesso">Disconnesso</string>
+    <string name="messaggio_video_play"> Video in esecuzione </string>
+    <string name="messaggio_video_pause">Pausa </string>
+    <string name="messaggio_errore_connessione"> Impossibile Connettersi al Gateway</string>
+    <string name="messaggio_no_connessione"> Non sei connesso</string>
+    <string name="messaggio_problema_video"> Problemi nell\'esecuzione</string>
+    <string name="messaggio_log_vuoto"> Log già vuoto</string>
+    <string name="messaggio_log_svuotato"> Log svuotato</string>
+    <string name="title_activity_incoming_call">Chiamata in Arrivo</string>
+    <string name="title_activity_video_surveillance">Video Sorveglianza</string>
+    <string name="title_activity_audio">Test Audio</string>
+    <string name="dialog_endVideo">Il tempo disponibile è terminato!</string>
+    <string name="endVideo">Chiudi</string>
+    <string name="title_activity_information">Informazioni</string>
+    <string name="title_activity_main_activity33">MainActivity33</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="titolo_tesi">Analisi e realizzazione di un\'applicazione di videocitofonia per device Android</string>
+    <string name="lupo">Lupo Angelo mat. 769939</string>
+    <string name="morandini">Morandini Michele mat. 766268</string>
+    <string name="versione"> versione 3.0</string>
+    <string name="professore">Baresi Luciano</string>
+    <string name="responsabile">Cortese Andrea</string>
+    <string name="positive"> Conferma </string>
+    <string name="negative"> Annulla </string>
+    <string name="dialog_endService"> Sei sicuro? In questo modo non potrai più ricevere le chiamate dal videocitofono!</string>
+	<string name="dialog_endCall">La chiamata è terminata!</string>
+</resources>
